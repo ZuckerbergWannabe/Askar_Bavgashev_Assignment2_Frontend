@@ -21,7 +21,7 @@ The purpose of this assignment is to practice modern CSS layout techniques using
 
 The navigation header uses Flexbox to place the logo on the left and navigation links on the right. The items are aligned horizontally and vertically with consistent spacing.
 
-![Task 0 — Navigation Bar](screenshots/task0-navigation.png)
+![Task 0 — Navigation Bar](screenshots/task0-navigation-home.png)
 
 ### Task 1 — Card Row
 
